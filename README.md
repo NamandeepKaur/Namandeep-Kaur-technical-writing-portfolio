@@ -4,8 +4,11 @@ This repository includes selected samples of my work in technical writing, in-pr
 
 *Feel free to connect: [https://www.linkedin.com/in/namandeep-kaur/](https://www.linkedin.com/in/namandeep-kaur/)*
 
-## Featured Case Studies
+## Featured case studies
 
-- Improving documentation review efficiency with an AI-assisted workflow
-- Clarifying Malware Protection feature selection and pricing in GuardDuty
-- Streamlining documentation intake and prioritization across teams
+<ul>
+    <li>[Scaling content and onboarding for evolving Malware Protection workflows](./malware-protection-clarity.md)</li>
+    <li>[Improving documentation review efficiency with an AI-assisted workflow]</li>
+    <li>[Streamlining documentation intake and prioritization across teams]</li>
+    <li>[Automating recurring Runtime Monitoring agents updates]</li>
+</ul>
