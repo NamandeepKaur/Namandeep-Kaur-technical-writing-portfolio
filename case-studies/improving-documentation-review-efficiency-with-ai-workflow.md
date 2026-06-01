@@ -5,4 +5,3 @@ After writing the docs, there was usually an empty window of waiting for the SME
 ## Context
 To collaborate at AWS, [Quip](https://quip.com/) was widely used to create and edit document by multiple collaborators. Quip was heavily used for design documents, new product ideas, meeting notes, and project design and deliverables.   
 The workflow that I was following for the review was converting the local HTML build to generate a PDF, highlighting updates in the PDF with prefixes as "new", "review here", or "updated", and then eventually uploading it to Workdocs. 
-
