@@ -6,7 +6,7 @@ This repository includes selected samples of my work in technical writing, in-pr
 
 ## Featured case studies
 
-- [Scaling content and onboarding for evolving Malware Protection workflows](./case-studies/malware-protection-case-studies/README-parent-malware-protection-clarity.md)
+- [Scaling content and onboarding for evolving Malware Protection workflows](./case-studies/malware-protection-case-studies/README.md)
 - [Improving documentation review efficiency with an AI-assisted workflow](./case-studies/improving-documentation-review-efficiency-with-ai-workflow.md)
 - [Streamlining documentation intake and prioritization across teams]
 - [Automating recurring Runtime Monitoring agents updates]
