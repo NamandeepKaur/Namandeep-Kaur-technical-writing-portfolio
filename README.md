@@ -4,7 +4,7 @@ Hi, I'm a Namandeep Kaur. I write documentation for engineers, developers, and p
 
 *Feel free to connect: [https://www.linkedin.com/in/namandeep-kaur/](https://www.linkedin.com/in/namandeep-kaur/)*
 
-My experience spans the full documentation lifecycle, from feature planning through launch and ongoing maintenance. This portfolio contains selected examples of documentation projects, process improvements, content strategy work, and how I approached them.
+My experience spans the full documentation lifecycle, from content planning through launch and ongoing maintenance. This portfolio contains selected examples of documentation projects, process improvements, content strategy work, and how I approached them.
 
 ## Contents
 
