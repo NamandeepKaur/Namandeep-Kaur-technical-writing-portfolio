@@ -37,6 +37,7 @@ These documentation areas have supported feature launches and go-to-market effor
 The following case studies sit at the intersection of content strategy, collaboration with product stakeholders, user advocacy, prioritization and impact, project management, documentation analytics, and internal process improvement.
 
 - [Improving documentation review efficiency with an AI-assisted workflow](./case-studies/improving-documentation-review-efficiency-with-ai-workflow.md)
+
+- [Scaling Amazon GuardDuty documentation through content strategy and information architecture](./case-studies/content-audit-and-ia-discoverability.md)
+
 - [Scaling content and onboarding for evolving Malware Protection workflows](./case-studies/malware-protection-case-studies/README.md)
-- [Streamlining documentation intake and prioritization across teams]
-- [Automating recurring Runtime Monitoring agents updates]

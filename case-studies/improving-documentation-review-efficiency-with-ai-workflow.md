@@ -1,3 +1,9 @@
+--------
+
+Back to portfolio homepage: [Technical & UX Writing Portfolio](../../README.md)
+
+--------
+
 # Improving documentation review efficiency with AI-assisted workflow
 
 For documentation reviews, technical accuracy often involved multiple engineering stakeholders, and review feedback frequently arrived close to release milestones.
@@ -45,7 +51,6 @@ The workflow helped me do the following:
 
 Because stakeholders already used Quip extensively in their day-to-day work, adoption was immediate and reviewers often engaged with content more quickly than through the previous PDF-based workflow.
 
-Workflow for improving documentation review efficiency with AI-assisted workflow.
 ![Improving documentation review process using AI-assisted workflow](./../assets/diagrams/improving-doc-review-process-using-ai-assisted-workflow.png)
 
 ## Results
