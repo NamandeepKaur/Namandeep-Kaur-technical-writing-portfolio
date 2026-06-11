@@ -24,12 +24,7 @@ The following screenshots represent my contribution to Amazon GuardDuty console 
 
 ### GuardDuty settings page
 
-Contributed content for account-level settings and maintenance operations, including the following:
-
-- Export findings configuration text
-- Generate sample findings workflow text
-- Suspend and disable confirmation dialogs
-- Contextual help panels explaining functional behavior
+Contributed content for account-level settings and maintenance operations, including export findings configuration, generate sample findings workflow, suspend and disable confirmation dialogs, and contextual help panels explaining GuardDuty behavior.
 
 **Example 1**: Contextual guidance explaining the difference between suspending and disabling GuardDuty. 
 
@@ -65,13 +60,7 @@ Because generating sample findings can add hundreds of entries, I would include 
 
 ### Runtime Monitoring
 
-Contributed content for Runtime Monitoring workflows, including:
-
-- Success and error flashbar messages
-- Confirmation dialogs
-- Runtime coverage and status message
-- Help panel content explaining agent management and prerequisites
-
+Contributed content for Runtime Monitoring workflows, including success and error flashbar messages, confirmation dialogs, runtime coverage and statuses, and help panel content explaining agent management and prerequisites.
 
 **Example 4**: After enabling automated agent configuration, the success message also provides functional guidance.
 
@@ -84,12 +73,7 @@ Users expected runtime coverage immediately after enabling automated agent confi
 
 ### Malware Protection for S3
 
-Contributed form guidance and validation content for enabling Malware Protection for S3, including the following:
-
-- Bucket scope options
-- Tagging explanations
-- Service-role configuration guidance
-- Validation and error messaging
+Contributed form guidance and validation content for enabling Malware Protection for S3, including S3 object tagging, service-role workflow, and error messaging.
 
 **Example 5**: Flashbar error message along with further guidance for the user.
 
