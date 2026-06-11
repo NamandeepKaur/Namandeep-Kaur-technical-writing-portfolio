@@ -1,6 +1,6 @@
 --------
 
-Back to portfolio homepage: [Technical & UX Writing Portfolio](../../README.md)
+Back to portfolio homepage: [Technical & UX Writing Portfolio](./../README.md)
 
 --------
 
@@ -61,7 +61,7 @@ The confirmation dialog sets expectations and helps users understand the impact 
 
 **What I would change now**
 
-Because generating sample findings can add hundreds of entries, I would include guidance on filtering sample findings after generation. I would surface this in the success flashbar so that users can immediately find the generated results.
+Because generating sample findings can add hundreds of entries, I would include guidance on filtering sample findings after generation. I would surface this in the success flashbar message so that the information is not lost unless the user takes an explicit action to close that flashbar message.
 
 ### Runtime Monitoring
 

@@ -1,6 +1,6 @@
 --------
 
-Back to portfolio homepage: [Technical & UX Writing Portfolio](../../README.md)
+Back to portfolio homepage: [Technical & UX Writing Portfolio](./../README.md)
 
 --------
 
@@ -14,7 +14,7 @@ Because documentation updates were tied to feature launches, delayed reviews oft
 
 At AWS, stakeholders commonly collaborated by using [Quip](https://quip.com/) for design reviews, project documentation, and cross-functional discussions.
 
-However, the documentation reveiew workflow relied on a separate process:
+However, the documentation review workflow relied on a separate process:
 
 1. Generate a local documentation build.
 2. Create a PDF from the generated HTML. 
@@ -27,7 +27,7 @@ This workflow had the following inefficiencies:
 - For feature launches, even minor doc updates required uploading a new PDF version.
 - Preparing review material required significant manual effort.
 - Review cycles often stretched to a week or longer.
-- Reviewers occasionally encountered access issues. Emails about requesting access would come after an hour or so. 
+- Reviewers occasionally encountered access issues, which delayed feedback cycles. 
 - By design of WorkDocs, comment history was distributed across PDF versions. 
 - Unless tagged in the comments, I would not receive notifications when a reviewer added a comment, causing delays in addressing the feedback.  
 
