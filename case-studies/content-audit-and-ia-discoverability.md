@@ -126,7 +126,7 @@ I reorganized a single topic into a workflow-oriented structure by separating co
 
 #### Before
 
-Web archive for Creating custom responses to GuardDuty findings with Amazon CloudWatch Events: https://web.archive.org/web/20240313192637/https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_findings_cloudwatch.html
+Web archive for Exporting findings: https://web.archive.org/web/20240313192637/https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_exportfindings.html
 
 ![exporting-generated-findings-to-amazon-s3-bucket-before](./../assets/screenshots/exporting-generated-findings-to-amazon-s3-bucket-before.png)
 
