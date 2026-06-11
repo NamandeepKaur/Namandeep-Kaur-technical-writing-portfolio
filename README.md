@@ -5,6 +5,7 @@ Hi, I'm Namandeep Kaur. I create technical documentation and in-product content 
 My work spans the full documentation lifecycle, from content planning and feature launches to ongoing maintenance. I enjoy solving problems involving information architecture, customer workflows, in-product experiences, and documentation processes.
 
 This portfolio contains selected examples of documentation projects, content strategy work, AI-assisted workflows, and customer-facing content.
+
 *LinkedIn: [https://www.linkedin.com/in/namandeep-kaur/](https://www.linkedin.com/in/namandeep-kaur/)*
 
 ## Contents
