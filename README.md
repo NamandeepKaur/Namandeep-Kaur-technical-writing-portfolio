@@ -41,3 +41,5 @@ The following case studies sit at the intersection of content strategy, collabor
 - [Scaling Amazon GuardDuty documentation through content strategy and information architecture](./case-studies/content-audit-and-ia-discoverability.md)
 
 - [Scaling content and onboarding for evolving Malware Protection workflows](./case-studies/malware-protection-case-studies/README.md)
+
+- [In-product content and microcopy](./case-studies/in-product-content-and-microcopy.md)
