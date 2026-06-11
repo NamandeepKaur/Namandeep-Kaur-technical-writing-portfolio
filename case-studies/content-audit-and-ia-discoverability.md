@@ -1,6 +1,6 @@
 --------
 
-Back to portfolio homepage: [Technical & UX Writing Portfolio](../../README.md)
+Back to portfolio homepage: [Technical & UX Writing Portfolio](./../README.md)
 
 --------
 
@@ -148,4 +148,4 @@ Referenced documentation: [Exporting generated GuardDuty findings to Amazon S3 b
 
 This work demonstrated that documentation quality improvements do not always require large rewrites. 
 
-By combining analytics, benchmark studies, support feedback, and recurring stakeholder reviews, I incrementally improve high-traffic content while continuing to support feature launches.
+By combining analytics, benchmark studies, support feedback, and recurring stakeholder reviews, I incrementally improved high-traffic content while continuing to support feature launches.
