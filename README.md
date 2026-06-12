@@ -36,6 +36,8 @@ These documentation areas have supported feature launches and go-to-market effor
 
 ## Featured case studies
 
+Over ~3.5 years supporting Amazon GuardDuty, I contributed to documentation across 140+ releases, enhancements, and service updates, including approximately 25–30 major feature launches and capability expansions while serving as the primary writer for the service.
+
 The following case studies sit at the intersection of content strategy, collaboration with product stakeholders, user advocacy, prioritization and impact, project management, documentation analytics, and internal process improvement.
 
 - [Scaling Amazon GuardDuty documentation through content strategy and information architecture](./case-studies/content-audit-and-ia-discoverability.md)
