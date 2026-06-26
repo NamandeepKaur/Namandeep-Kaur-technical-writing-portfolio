@@ -10,6 +10,11 @@ In addition to documentation, I contributed user-facing content for Amazon Guard
 
 For these contributions, I collaborated with product managers, UX designers, and front-end engineers, and aimed to improve clarity, consistency, and customer understanding.
 
+Contents:
+
+- [What I did](#what-i-did)
+- [Key examples](#key-examples)
+
 ## What I did
 
 - Helping users understand complex security workflows
@@ -18,7 +23,7 @@ For these contributions, I collaborated with product managers, UX designers, and
 - Improving terminology and content consistency
 - Supporting onboarding and feature configuration
 
-## Key scenarios
+## Key examples
 
 The following screenshots represent my contribution to Amazon GuardDuty console experience. 
 
