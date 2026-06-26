@@ -10,6 +10,7 @@ For documentation reviews, technical accuracy often involved multiple engineerin
 
 Because documentation updates were tied to feature launches, delayed reviews often had the risk of last-minute documentation churn and created additional prioritization challenges as release dates approached. 
 
+Contents:
 - [Challenge](#challenge)
 - [Solution](#solution)
 - [Results](#results)
