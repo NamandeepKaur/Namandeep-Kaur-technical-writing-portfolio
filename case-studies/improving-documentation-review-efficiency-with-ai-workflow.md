@@ -10,6 +10,11 @@ For documentation reviews, technical accuracy often involved multiple engineerin
 
 Because documentation updates were tied to feature launches, delayed reviews often had the risk of last-minute documentation churn and created additional prioritization challenges as release dates approached. 
 
+- [Challenge](#challenge)
+- [Solution](#solution)
+- [Results](#results)
+- [Trade-offs and troubleshooting](#trade-offs-and-troubleshooting)
+
 ## Challenge
 
 At AWS, stakeholders commonly collaborated by using [Quip](https://quip.com/) for design reviews, project documentation, and cross-functional discussions.
