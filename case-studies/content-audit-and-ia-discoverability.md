@@ -58,7 +58,7 @@ Referenced documentation: [What is GuardDuty](https://docs.aws.amazon.com/guardd
 
 ![what-is-guardduty-cropped-after](./../assets/screenshots/what-is-guardduty-cropped-after.png)
 
-Moved **Pricing** page into a dedicated standalone topic.
+Moved **Pricing** section into a dedicated standalone topic.
 
 ![what-is-guardduty-after-pricing](./../assets/screenshots/what-is-guardduty-pricing-after.png)
 
