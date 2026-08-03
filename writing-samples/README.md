@@ -10,7 +10,7 @@ These samples are drawn from public Amazon GuardDuty documentation that I author
 
 ## Samples
 
-- [Exporting generated GuardDuty findings to Amazon S3 buckets](sample1-deep-procedural-documentation-exporting-findings.pdf)  
+- [Exporting generated GuardDuty findings to Amazon S3 buckets](sample1-procedural-documentation-exporting-findings.pdf)  
   Procedural documentation covering Amazon S3, AWS KMS, IAM permissions, cross-Region considerations, and console configuration.
     
     Public documentation: [Exporting generated GuardDuty findings to Amazon S3 buckets](https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_exportfindings.html)
