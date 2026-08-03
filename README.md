@@ -55,8 +55,6 @@ These samples are drawn from public Amazon GuardDuty documentation that I author
 
 For details about the following samples, see [Writing samples README](writing-samples/README.md).
 
-- Exporting generated GuardDuty findings to Amazon S3 buckets
-    Deep procedural documentation covering cross-region considerations, permissions and policies for AWS KMS and Amazon S3 configuration, and console workflows.
+- Exporting generated GuardDuty findings to Amazon S3 buckets - Procedural documentation covering cross-region considerations, permissions and policies for AWS KMS and Amazon S3 configurations, and console workflows.
 
-- What is Amazon GuardDuty?
-    Conceptual documentation introducing the service, its capabilities, findings, pricing, and access methods.
+- What is Amazon GuardDuty? - Conceptual documentation introducing the service, its capabilities, findings, pricing, and access methods.
