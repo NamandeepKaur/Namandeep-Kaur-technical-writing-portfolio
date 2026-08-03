@@ -53,8 +53,8 @@ The following case studies sit at the intersection of content strategy, collabor
 
 These samples are drawn from public Amazon GuardDuty documentation that I authored or substantially contributed to and maintained during my tenure. Current public versions may include subsequent edits by other contributors.
 
-- [Exporting generated GuardDuty findings to Amazon S3 buckets](writing-samples/exporting-guardduty-findings-to-amazon-s3.pdf)  
+- [Exporting generated GuardDuty findings to Amazon S3 buckets](writing-samples/sample1-deep-procedural-documentation-exporting-findings.pdf)  
   Deep procedural documentation covering cross-region considerations, permissions and policies for AWS KMS and Amazon S3 configuration, and console workflows.
 
-- [What is Amazon GuardDuty?](writing-samples/what-is-amazon-guardduty.pdf)  
+- [What is Amazon GuardDuty?](writing-samples/sample2-product-overview-and-conceptual-documentation-what-is-guardduty.pdf)  
   Conceptual documentation introducing the service, its capabilities, findings, pricing, and access methods.
