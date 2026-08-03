@@ -13,6 +13,7 @@ This portfolio contains selected examples of documentation projects, content str
 - [Areas of experience](#areas-of-experience)
 - [Process and workflow experience](#process-and-workflow-experience)
 - [Featured case studies](#featured-case-studies)
+- [Selected writing samples](#selected-writing-samples)
 
 ## Areas of experience
 
@@ -47,3 +48,13 @@ The following case studies sit at the intersection of content strategy, collabor
 - [Improving documentation review efficiency with an AI-assisted workflow](./case-studies/improving-documentation-review-efficiency-with-ai-workflow.md)
 
 - [Scaling content and onboarding for evolving Malware Protection workflows](./case-studies/malware-protection-case-studies/README.md)
+
+## Selected writing samples
+
+These samples are drawn from public Amazon GuardDuty documentation that I authored or substantially contributed to and maintained during my tenure. Current public versions may include subsequent edits by other contributors.
+
+- [Exporting generated GuardDuty findings to Amazon S3 buckets](writing-samples/exporting-guardduty-findings-to-amazon-s3.pdf)  
+  Deep procedural documentation covering cross-region considerations, permissions and policies for AWS KMS and Amazon S3 configuration, and console workflows.
+
+- [What is Amazon GuardDuty?](writing-samples/what-is-amazon-guardduty.pdf)  
+  Conceptual documentation introducing the service, its capabilities, findings, pricing, and access methods.
